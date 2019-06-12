@@ -1,0 +1,10 @@
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\bin\Debug\DonationsForm.exe.config
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\bin\Debug\DonationsForm.exe
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\bin\Debug\DonationsForm.pdb
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.Form1.resources
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.Properties.Resources.resources
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.csproj.GenerateResource.Cache
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.csproj.CoreCompileInputs.cache
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.exe
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.pdb
+D:\Diana_MockUp_Template\DonationsMockUp1\DonationsForm\obj\Debug\DonationsForm.csprojAssemblyReference.cache

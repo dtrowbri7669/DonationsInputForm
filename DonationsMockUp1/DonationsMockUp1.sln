@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonationsForm", "DonationsForm\DonationsForm.csproj", "{8D2DC4A5-AD93-4B54-8BDB-3C73F0A6D2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2DC4A5-AD93-4B54-8BDB-3C73F0A6D2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2DC4A5-AD93-4B54-8BDB-3C73F0A6D2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2DC4A5-AD93-4B54-8BDB-3C73F0A6D2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2DC4A5-AD93-4B54-8BDB-3C73F0A6D2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC05ACC6-1944-47B2-9C23-8DE7AD4E8C51}
+	EndGlobalSection
+EndGlobal
